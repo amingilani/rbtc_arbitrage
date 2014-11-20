@@ -124,4 +124,4 @@ client.transfer coinbase.address
 
 ## License
 
-[Available here](LICENSE.txt)
+MIT. [Available here](LICENSE.txt)
